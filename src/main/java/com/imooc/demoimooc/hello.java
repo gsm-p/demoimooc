@@ -11,5 +11,11 @@ public class hello {
     public String hello()
     {
         return "Hello SpringBoot!";
+
     }
+    public String hello1()
+    {
+        return "Hello SpringBoot!";
+    }
+
 }
